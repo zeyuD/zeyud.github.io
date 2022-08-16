@@ -18,14 +18,13 @@ redirect_from:
 
 ### Work Experience
 ======
-* 2022 - : Research Assistant (LSU)
+* 2022 - Present: Research Assistant (LSU)
   * Working at MistLab (https://csc.lsu.edu/~chenwang/)
   
 * 2021 - 2022: Teaching Assistant (LSU)
   * Grading and lab teaching
   
 ## Skills
-======
 * Programming
   * Python
   * MATLAB
@@ -35,13 +34,11 @@ redirect_from:
   * English
 
 ## Publications
-======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 ## Extracurricular Activities
-======
 * HSSR Poster Judge
 * UCL MSc Student Representative
 <!--: Student representative of MSc Internet Engineering at UCL. Advised students’ desires and suggestions to department staff, organized activities such as group study and social.-->
