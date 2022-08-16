@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-* PhD in Computer Science, Louisiana State University (LSU), 2021 -
+* PhD in Computer Science, Louisiana State University (LSU), 2021 - Present
 * MSc in Internet Engineering, University College London (UCL), 2018 - 2019
 * BEng in Electronic and Electrical Engineering, University of Birmingham, 2016 - 2018
 * BEng in Electrical Engineering and Automation, Huazhong University of Science and Technology (HUST), 2014 - 2016
