@@ -9,14 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+## Education
 ======
 * PhD in Computer Science, Louisiana State University (LSU), 2021 -
 * MSc in Internet Engineering, University College London (UCL), 2018 - 2019
 * BEng in Electronic and Electrical Engineering, University of Birmingham, 2016 - 2018
 * BEng in Electrical Engineering and Automation, Huazhong University of Science and Technology (HUST), 2014 - 2016
 
-Work Experience
+### Work Experience
 ======
 * 2022 - : Research Assistant (LSU)
   * Working at MistLab (https://csc.lsu.edu/~chenwang/)
@@ -24,7 +24,7 @@ Work Experience
 * 2021 - 2022: Teaching Assistant (LSU)
   * Grading and lab teaching
   
-Skills
+## Skills
 ======
 * Programming
   * Python
@@ -34,13 +34,13 @@ Skills
   * Mandarin Chinese
   * English
 
-Publications
+## Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Extracurricular Activities
+## Extracurricular Activities
 ======
 * HSSR Poster Judge
 * UCL MSc Student Representative
