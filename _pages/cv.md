@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Résumé"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,30 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD in Computer Science, Louisiana State University (LSU), 2021 -
+* MSc in Internet Engineering, University College London (UCL), 2018 - 2019
+* BEng in Electronic and Electrical Engineering, University of Birmingham, 2016 - 2018
+* BEng in Electrical Engineering and Automation, Huazhong University of Science and Technology (HUST), 2014 - 2016
 
-Work experience
+Work Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2022 - : Research Assistant (LSU)
+  * Working at MistLab (https://csc.lsu.edu/~chenwang/)
+  
+* 2021 - 2022: Teaching Assistant (LSU)
+  * Grading and lab teaching
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * Python
+  * MATLAB
+  * C/C++ like programming platforms, e.g., ROS, Raspberry Pi, and Arduino
+* Language
+  * Mandarin Chinese
+  * English
 
 Publications
 ======
@@ -42,18 +40,27 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Extracurricular Activities
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* HSSR Poster Judge
+* UCL MSc Student Representative
+<!--: Student representative of MSc Internet Engineering at UCL. Advised students’ desires and suggestions to department staff, organized activities such as group study and social.-->
+* HUST University Union Association Agent
+<!--: Organisation and backstage work in Association Arts Festivals. Manager of Xiangsheng Society in the Association Union of HUST. Organised the recruitments of xiangsheng performers and amateurs, managed budget and venue. -->
+
+
+<!--Talks-->
+<!--======-->
+<!--  <ul>{% for post in site.talks %}-->
+<!--    {% include archive-single-talk-cv.html %}-->
+<!--  {% endfor %}</ul>-->
+<!--  -->
+<!--Teaching-->
+<!--======-->
+<!--  <ul>{% for post in site.teaching %}-->
+<!--    {% include archive-single-cv.html %}-->
+<!--  {% endfor %}</ul>-->
+<!--  -->
+<!--Service and leadership-->
+<!--======-->
+<!--* Currently signed in to 43 different slack teams-->
