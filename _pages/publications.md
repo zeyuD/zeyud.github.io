@@ -2,7 +2,7 @@
 title: "Publications"
 layout: gridlay
 sitemap: false
-permalink: /profiles/zeyudeng/publications/
+permalink: /publications/
 years: [2022, 2023]
 ---
 

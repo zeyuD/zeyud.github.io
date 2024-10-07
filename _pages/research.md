@@ -2,7 +2,7 @@
 title: "Research"
 layout: gridlay
 sitemap: false
-permalink: /profiles/zeyudeng/research/
+permalink: /research/
 ---
 
 <style>

@@ -2,7 +2,7 @@
 title: "Hobby"
 layout: gridlay
 sitemap: false
-permalink: /profiles/zeyudeng/hobby/
+permalink: /hobby/
 ---
 
 <style>
