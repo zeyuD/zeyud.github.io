@@ -2,7 +2,7 @@
 title: "About"
 layout: gridlay
 sitemap: false
-permalink: /profiles/zeyudeng/about/
+permalink: /about/
 ---
 
 ## About

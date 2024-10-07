@@ -2,7 +2,7 @@
 title: "News"
 layout: textlay
 sitemap: false
-permalink: /profiles/zeyudeng/allnews.html
+permalink: /allnews.html
 ---
 
 ## News
