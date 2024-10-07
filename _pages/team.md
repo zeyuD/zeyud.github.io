@@ -2,7 +2,7 @@
 title: "Team"
 layout: gridlay
 sitemap: false
-permalink: /team/
+permalink: /profiles/zeyudeng/team/
 ---
 
 ## Team
