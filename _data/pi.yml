@@ -1,7 +1,7 @@
 - name: Zeyu Deng
   photo: headshot.jpg
-  info: Ph.D. Student, Louisiana State University
-  email: zdeng6@lsu.edu
+  info: Ph.D. Student, Southern Methodist University
+  email: zeyud@smu.edu
   github: https://github.com/zeyuD/
   # researchgate: https://www.researchgate.net/
   scholar: https://scholar.google.com/citations?user=aMNcG2AAAAAJ&hl=en&oi=ao
@@ -10,11 +10,11 @@
   # Change the items in "education" you have (up to 6)
   education:
     [
-      # "(Present) PhD in Computer Science, Louisiana State University",
+      # "(Present) PhD in Computer Science, Southern Methodist University",
       "MSc Internet Engineering, University College London",
       "BEng Electronic and Electrical Engineering, University of Birmingham",
       "BEng Electrical Engineering and Automation, Huazhong University of Science and Technology"
     ]
 
   educationshort:
-    ["PhD Student in CS, LSU", "MSc Internet Engineering, UCL", "BEng in EE, UoB and HUST"]
+    ["PhD Student in CS, SMU", "MSc Internet Engineering, UCL", "BEng in EE, UoB and HUST"]
