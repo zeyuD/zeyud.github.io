@@ -27,16 +27,16 @@ contact: >
 # Pages shown in navbar
 nav_pages:
   - name: about
-    # url: /profiles/zeyudeng/about/
+    url: /profiles/zeyudeng/about/
   - name: publications
-    # url: /profiles/zeyudeng/publications/
+    url: /profiles/zeyudeng/publications/
   # - name: talks
   - name: research
-    # url: /profiles/zeyudeng/research/
+    url: /profiles/zeyudeng/research/
   # - name: team
   # - name: teaching
   - name: hobby
-    # url: /profiles/zeyudeng/hobby/
+    url: /profiles/zeyudeng/hobby/
 
 include:
   - .htaccess

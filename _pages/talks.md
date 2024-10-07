@@ -2,7 +2,7 @@
 title: "Talks"
 layout: gridlay
 sitemap: false
-permalink: /talks/
+permalink: /profiles/zeyudeng/talks/
 ---
 
 {% comment %}

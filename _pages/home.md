@@ -2,7 +2,7 @@
 title: "Home"
 layout: homelay
 sitemap: false
-permalink: /
+permalink: /profiles/zeyudeng/
 ---
 
 ### Welcome!
