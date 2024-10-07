@@ -5,6 +5,7 @@ sitemap: false
 permalink: /talks/
 ---
 
+{% comment %}
 <style>
 .btn{
     margin-bottom:5px;
@@ -31,3 +32,5 @@ permalink: /talks/
 ### Regular talks
 {% bibliography --query @incollection[keywords != invited] %}
 </div>
+
+{% endcomment %}
