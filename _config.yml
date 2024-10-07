@@ -2,7 +2,7 @@
 title: Zeyu Deng
 email: zeyud@smu.edu
 description: Academic webpage of Zeyu Deng
-baseurl: ""
+baseurl: "/profiles/zeyudeng"
 url: ""
 
 # Google analytics ID: Uncomment and your own, if you like
@@ -27,12 +27,16 @@ contact: >
 # Pages shown in navbar
 nav_pages:
   - name: about
+    url: /profiles/zeyudeng/about/
   - name: publications
+    url: /profiles/zeyudeng/publications/
   # - name: talks
   - name: research
+    url: /profiles/zeyudeng/research/
   # - name: team
   # - name: teaching
   - name: hobby
+    url: /profiles/zeyudeng/hobby/
 
 include:
   - .htaccess
@@ -93,3 +97,4 @@ exclude:
   - switch_theme.sh
   - tags
   - Rakefile
+  - README.md
